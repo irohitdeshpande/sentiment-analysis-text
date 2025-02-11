@@ -1,0 +1,18 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+nltk
+
+# Data extraction
+zipfile36  # For handling zip files
+
+# Model training and evaluation
+matplotlib
+seaborn
+
+# Streamlit for the web app
+streamlit
+
+# Git LFS
+git-lfs

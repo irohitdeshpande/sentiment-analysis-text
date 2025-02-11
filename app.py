@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+import sklearn
 from sklearn.feature_extraction.text import TfidfVectorizer
 import nltk
 import re
